@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Amplificador_3W_TDA2822-rescue")(type "KiCad")(uri "${KIPRJMOD}/Amplificador_3W_TDA2822-rescue.kicad_sym")(options "")(descr ""))
+)
